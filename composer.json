@@ -7,7 +7,7 @@
     "homepage": "https://github.com/IcyApril/CryptoLib",
     "autoload": {
         "psr-4": {
-            "CryptoLib\\": "CryptoLib/"
+            "CryptoLib\\": "/"
         }
     }
 }
