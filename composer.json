@@ -1,11 +1,8 @@
 {
-    "name": "CryptoLib/CryptoLib",
+    "name": "CryptoLib",
     "type": "library",
     "description": "Cryptograhic library.",
     "version": "0.8",
     "license": "MIT",
-    "homepage": "https://github.com/IcyApril/CryptoLib",
-    "autoload": {
-        "classmap": ["CryptoLib"]
-    }
+    "homepage": "https://github.com/IcyApril/CryptoLib"
 }

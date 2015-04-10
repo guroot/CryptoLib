@@ -1,4 +1,6 @@
 <?php
+namespace CryptoLib;
+
 /**
  * Class CryptoLib (v0.8 Christmas)
  * Created by Junade Ali
