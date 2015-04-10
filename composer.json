@@ -1,5 +1,5 @@
 {
-    "name": "CryptoLib/CryptoLib",
+    "name": "CryptoLib",
     "type": "library",
     "description": "Cryptograhic library.",
     "version": "0.8",
