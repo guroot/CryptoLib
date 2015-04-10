@@ -4,5 +4,11 @@
     "description": "Cryptograhic library.",
     "version": "0.8",
     "license": "MIT",
-    "homepage": "https://github.com/IcyApril/CryptoLib"
+    "homepage": "https://github.com/IcyApril/CryptoLib",
+    ,
+    "autoload-dev": {
+        "psr-4": {
+            "CryptoLib\\": "CryptoLib/"
+        }
+    }
 }
